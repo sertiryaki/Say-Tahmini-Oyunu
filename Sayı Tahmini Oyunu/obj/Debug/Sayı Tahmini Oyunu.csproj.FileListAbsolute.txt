@@ -1,0 +1,10 @@
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\bin\Debug\Sayı Tahmini Oyunu.exe.config
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\bin\Debug\Sayı Tahmini Oyunu.exe
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\bin\Debug\Sayı Tahmini Oyunu.pdb
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\obj\Debug\Sayı Tahmini Oyunu.csproj.AssemblyReference.cache
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\obj\Debug\Sayı_Tahmini_Oyunu.Form1.resources
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\obj\Debug\Sayı_Tahmini_Oyunu.Properties.Resources.resources
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\obj\Debug\Sayı Tahmini Oyunu.csproj.GenerateResource.cache
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\obj\Debug\Sayı Tahmini Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\obj\Debug\Sayı Tahmini Oyunu.exe
+C:\Users\ertir\source\repos\Sayı Tahmini Oyunu\Sayı Tahmini Oyunu\obj\Debug\Sayı Tahmini Oyunu.pdb
